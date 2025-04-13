@@ -13,7 +13,7 @@
     <h1 class="text-center mb-4">学習ステップを選択</h1>
 
     <div class="row" id="steps-container"></div>
-  </div>
+  <div>
 
   <script>
     // JSONデータを読み込む
@@ -42,4 +42,4 @@
   </script>
 
 </body>
-</html>
+<html>
