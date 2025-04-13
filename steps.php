@@ -6,14 +6,14 @@
   <title>ステップ選択 - 言語学習</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
-<head>
+</head>
 <body>
 
   <div class="container my-5">
     <h1 class="text-center mb-4">学習ステップを選択</h1>
 
     <div class="row" id="steps-container"></div>
-  <div>
+  </div>
 
   <script>
     // JSONデータを読み込む
@@ -42,4 +42,4 @@
   </script>
 
 </body>
-<html>
+</html>
